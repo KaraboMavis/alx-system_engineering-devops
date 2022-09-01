@@ -1,1 +1,1 @@
-permission for others as well
+7-everybody
