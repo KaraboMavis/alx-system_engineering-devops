@@ -1,1 +1,2 @@
-switch current user
+#!/bin/bash
+chmod u+x 0-iam_betty
