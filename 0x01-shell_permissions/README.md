@@ -1,1 +1,1 @@
-execute file
+permission for others as well
